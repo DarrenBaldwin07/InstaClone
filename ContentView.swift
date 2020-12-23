@@ -1,9 +1,7 @@
 //
 //  ContentView.swift
 //  InstaClone
-//
-//  Created by Darren Jr Baldwin  on 12/22/20.
-//
+
 
 import SwiftUI
 import UIKit
